@@ -1,4 +1,4 @@
-#GLBA (Gramm-Leech-Blilely Act)
+# GLBA (Gramm-Leech-Blilely Act)
 
 ## Introduction:
 

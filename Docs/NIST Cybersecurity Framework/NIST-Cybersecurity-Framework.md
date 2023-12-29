@@ -94,7 +94,7 @@ Links to official NIST documentation, supplementary tools, workshops, webinars, 
 
 - [NIST Cybersecurity Framework Official Documentation](https://www.nist.gov/cyberframework/framework)
 - [CSO Online: Cybersecurity Frameworks and Standards](https://www.csoonline.com/article/3400381/the-top-6-governance-risk-and-compliance-grc-frameworks.html)
-- [ISACA: Navigating the NIST Cybersecurity Framework](https://www.isaca.org/resources/news-and-trends/industry-news/2017/navigating-the-nist-cybersecurity-framework)
+- [Demystifying the Implementation of Cyberresilience Programs](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-3/demystifying-the-implementation-of-cyberresilience-programs)
 
 ## Contact Information
 

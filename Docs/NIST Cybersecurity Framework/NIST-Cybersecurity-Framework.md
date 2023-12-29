@@ -86,7 +86,7 @@ A detailed guide on implementing the NIST Cybersecurity Framework, including ass
 
 In-depth case studies showcasing successful implementation of the NIST Cybersecurity Framework in diverse organizations, highlighting challenges faced and how they were overcome.
 
-- [NIST Cybersecurity Framework Case Studies](https://www.nist.gov/cyberframework/case-studies)
+- [NIST Cybersecurity Framework Case Studies](https://www.nist.gov/search?s=case+studies)
 
 ## Additional Resources
 

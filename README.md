@@ -16,7 +16,6 @@ Feel free to navigate through the documentation, explore different frameworks, a
 4. [CIS Critical Security Controls](https://www.cisecurity.org/controls/)
 5. [GDPR](https://gdpr.eu/)
 6. [HIPAA](https://www.hhs.gov/hipaa/index.html)
-7. [Cybersecurity Maturity Model Certification (CMMC)](https://www.acq.osd.mil/cmmc/)
-8. [PCI DSS](https://www.pcisecuritystandards.org/)
+7. [PCI DSS](https://www.pcisecuritystandards.org/)
 
 Feel free to contribute, share your insights, and make this repository a collaborative space for cybersecurity knowledge. Happy exploring!

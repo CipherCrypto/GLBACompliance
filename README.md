@@ -1,21 +1,22 @@
-# Global Cybersecurity Frameworks Repository
+# U.S. Healthcare Data Privacy and Security Laws Repository
 
-Welcome to the Global Cybersecurity Frameworks Repository! This repository is designed to provide users with valuable insights into various cybersecurity frameworks that organizations can leverage to enhance their security posture. Whether you're a cybersecurity professional, an IT administrator, or someone interested in understanding best practices for securing organizational assets, this repository aims to be a comprehensive resource.
+## Overview
 
-## Purpose:
+Welcome to the U.S. Healthcare Data Privacy and Security Laws Repository. This repository is a comprehensive resource for healthcare professionals, IT specialists, and legal advisors seeking in-depth information on U.S. laws and regulations governing healthcare data privacy and security.
 
-The primary purpose of this repository is to offer information, guidelines, and links to key global cybersecurity frameworks. By exploring these frameworks, users can gain a deeper understanding of the rules, regulations, and recommendations that organizations follow to secure their systems, data, and overall infrastructure.
+## Purpose
 
-Feel free to navigate through the documentation, explore different frameworks, and adapt best practices to suit the specific cybersecurity needs of your organization. Your journey towards a more secure digital environment starts here!
+The primary goal of this repository is to provide easy access to detailed information, guidance, and resources related to key U.S. healthcare data privacy and security laws. This includes HIPAA, HITECH, GINA, FERPA, and other relevant federal and state regulations.
 
-## Table of Contents:
+## Table of Contents
 
-1. [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
-2. [ISO/IEC Standards](https://www.iso.org/home.html)
-3. [COBIT](https://www.isaca.org/cobit/pages/default.aspx)
-4. [CIS Critical Security Controls](https://www.cisecurity.org/controls/)
-5. [GDPR](https://gdpr.eu/)
-6. [HIPAA](https://www.hhs.gov/hipaa/index.html)
-7. [PCI DSS](https://www.pcisecuritystandards.org/)
+1. [HIPAA - Health Insurance Portability and Accountability Act](#hipaa)
+2. [HITECH - Health Information Technology for Economic and Clinical Health Act](#hitech)
+3. [GINA - Genetic Information Nondiscrimination Act](#gina)
+4. [FERPA - Family Educational Rights and Privacy Act](#ferpa)
+5. [21st Century Cures Act](#21st-century-cures-act)
+6. [State-Specific Privacy Laws](#state-specific-privacy-laws)
+7. [FTC Act - Federal Trade Commission Act](#ftc-act)
+8. [ADA - Americans with Disabilities Act](#ada)
+9. [SAMHSA Regulations](#samhsa-regulations)
 
-Feel free to contribute, share your insights, and make this repository a collaborative space for cybersecurity knowledge. Happy exploring!

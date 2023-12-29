@@ -11,7 +11,7 @@ Feel free to navigate through the documentation, explore different frameworks, a
 ## Table of Contents:
 
 1. [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
-2. [ISO/IEC 27001:2013](https://www.iso.org/standard/54534.html)
+2. [ISO/IEC Standards](https://www.iso.org/home.html)
 3. [COBIT](https://www.isaca.org/cobit/pages/default.aspx)
 4. [CIS Critical Security Controls](https://www.cisecurity.org/controls/)
 5. [GDPR](https://gdpr.eu/)

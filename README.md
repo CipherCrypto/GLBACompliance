@@ -8,14 +8,48 @@ The primary purpose of this repository is to offer information, guidelines, and 
 
 Feel free to navigate through the documentation, explore different frameworks, and adapt best practices to suit the specific cybersecurity needs of your organization. Your journey towards a more secure digital environment starts here!
 
-## Table of Contents:
+## Frameworks:
 
-1. [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
-2. [ISO/IEC 27001:2013](https://www.iso.org/standard/54534.html)
-3. [COBIT](https://www.isaca.org/cobit/pages/default.aspx)
-4. [CIS Critical Security Controls](https://www.cisecurity.org/controls/)
-5. [GDPR](https://gdpr.eu/)
-6. [HIPAA](https://www.hhs.gov/hipaa/index.html)
-7. [GLBA](https://www.youtube.com/watch?v=OvnO_SH-4WU)
-8. [PCI DSS](https://www.pcisecuritystandards.org/)
+### NIST Cybersecurity Framework
+The NIST Cybersecurity Framework provides guidelines and best practices for managing cybersecurity risks. It was developed by the National Institute of Standards and Technology.
+- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+- [Overview Video](https://www.youtube.com/watch?v=4NSQCmAw6Ck)
+
+### ISO/IEC 27001:2013
+ISO/IEC 27001:2013 is an international standard for managing information security.
+- [ISO/IEC 27001:2013](https://www.iso.org/standard/54534.html)
+- [Overview Video](https://www.youtube.com/watch?v=68YvYGLGDKs)
+
+### COBIT
+COBIT is a framework for developing, implementing, monitoring, and improving IT governance and management practices.
+- [COBIT](https://www.isaca.org/cobit/pages/default.aspx)
+- [History Video](https://www.youtube.com/watch?v=3-t-xvb13c8)
+
+### CIS Critical Security Controls
+The CIS Critical Security Controls are a set of actions for cyber defense that provide specific and actionable ways to stop today's most pervasive and dangerous attacks.
+- [CIS Critical Security Controls](https://www.cisecurity.org/controls/)
+- [Overview Video](https://www.youtube.com/watch?v=jEj444Wi-AQ)
+
+### GDPR
+The General Data Protection Regulation (GDPR) is a regulation in EU law on data protection and privacy in the European Union and the European Economic Area.
+- [GDPR](https://gdpr.eu/)
+- [Summary Video](https://www.youtube.com/watch?v=Assdm6fIHlE)
+
+### HIPAA
+The Health Insurance Portability and Accountability Act (HIPAA) sets the standard for sensitive patient data protection in the United States.
+- [HIPAA](https://www.hhs.gov/hipaa/index.html)
+- [History Video](https://www.youtube.com/watch?v=r6f1txCRB7M)
+
+### GLBA
+The Gramm-Leach-Bliley Act (GLBA) requires financial institutions to explain their information-sharing practices to their customers and to safeguard sensitive data.
+- [GLBA](https://www.youtube.com/watch?v=OvnO_SH-4WU)
+- [Overview Video](https://www.youtube.com/watch?v=06ah9arELG4)
+
+### PCI DSS
+The Payment Card Industry Data Security Standard (PCI DSS) is a set of security standards designed to ensure that all companies that accept, process, store, or transmit credit card information maintain a secure environment.
+- [PCI DSS](https://www.pcisecuritystandards.org/)
+
+---
+
+This document is intended for informational purposes only and is not exhaustive. For detailed information and compliance requirements, refer to the respective official documentation or legal texts.
 

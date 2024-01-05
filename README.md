@@ -1,4 +1,4 @@
-# Global Cybersecurity Frameworks Repository
+# Legislation and Compliance Repository
 
 Welcome to the Global Cybersecurity Frameworks Repository! This repository is designed to provide users with valuable insights into various cybersecurity frameworks that organizations can leverage to enhance their security posture. Whether you're a cybersecurity professional, an IT administrator, or someone interested in understanding best practices for securing organizational assets, this repository aims to be a comprehensive resource.
 

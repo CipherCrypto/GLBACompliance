@@ -17,7 +17,7 @@ The NIST Cybersecurity Framework provides guidelines and best practices for mana
 
 ### ISO/IEC 27001:2013
 ISO/IEC 27001:2013 is an international standard for managing information security.
-- [ISO/IEC 27001:2013](https://www.iso.org/standard/54534.html)
+- [ISO/IEC 27001](https://www.strongdm.com/blog/iso-27001-requirements)
 - [Overview Video](https://www.youtube.com/watch?v=68YvYGLGDKs)
 
 ### COBIT

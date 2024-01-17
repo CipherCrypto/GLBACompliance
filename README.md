@@ -13,7 +13,7 @@ Feel free to navigate through the documentation, explore different frameworks, a
 ### NIST Cybersecurity Framework
 The NIST Cybersecurity Framework provides guidelines and best practices for managing cybersecurity risks. It was developed by the National Institute of Standards and Technology.
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
-- [Overview Video](https://www.youtube.com/watch?v=4NSQCmAw6Ck)
+- [Overview Video](https://www.youtube.com/watch?v=_KXqDNVmpu8&pp=ygUlTklTVCBDeWJlcnNlY3VyaXR5IGZyYW1ld29yayBvdmVydmlldw%3D%3D)
 
 ### ISO/IEC 27001:2013
 ISO/IEC 27001:2013 is an international standard for managing information security.

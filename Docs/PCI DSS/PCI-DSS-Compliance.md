@@ -44,7 +44,6 @@ Achieving and maintaining PCI-DSS compliance is an ongoing process that requires
 ### Resources
 
 - **PCI Security Standards Council**: The official site for PCI-DSS documentation, resources, and tools. [PCI SSC](https://www.pcisecuritystandards.org/)
-- **Verizon PCI Compliance Report**: Offers insights and analysis on PCI-DSS compliance trends and challenges. [Verizon Report](https://enterprise.verizon.com/resources/reports/pci-compliance-report/)
-- **PCI DSS Quick Reference Guide**: Provides a concise summary of the PCI-DSS requirements and testing procedures. [PCI DSS Guide](https://www.pcisecuritystandards.org/documents/PCI%20SSC%20Quick%20Reference%20Guide.pdf)
+- **PCI DSS Quick Reference Guide**: Provides a concise summary of the PCI-DSS requirements and testing procedures. [PCI DSS Guide](https://www.pcisecuritystandards.org/document_library/#results)
 - **OWASP Guide for E-Commerce Security**: Offers best practices for securing e-commerce platforms, relevant to PCI-DSS compliance. [OWASP E-Commerce Guide](https://owasp.org/www-project-top-ten/)
 

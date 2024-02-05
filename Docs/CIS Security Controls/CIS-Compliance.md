@@ -47,5 +47,3 @@ Adopting the CIS Controls provides a strategic framework for organizations to st
 ### Resources
 
 - **Center for Internet Security (CIS) Controls**: Access the complete list of CIS Controls and detailed guidance for implementation. [CIS Controls](https://www.cisecurity.org/controls/)
-- **CIS Benchmarks**: Utilize CIS Benchmarks for secure configuration guidelines for a wide range of technologies. [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
-- **CIS SecureSuite Membership**: Consider joining the CIS SecureSuite for access to more resources, tools, and support for implementing the CIS Controls. [CIS SecureSuite](https://www.cisecurity.org/securesuite/)

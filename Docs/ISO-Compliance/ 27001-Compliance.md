@@ -42,9 +42,3 @@ ISO 27001 is a globally recognized standard for managing information security. I
 **Conclusion**
 
 Achieving ISO 27001 certification is a comprehensive process that requires a deep commitment to information security from all levels of an organization. By following this guide and adopting a systematic approach to establishing, implementing, maintaining, and improving your ISMS, your organization can not only achieve certification but also significantly strengthen its information security posture.
-
-### Resources
-
-- **ISO/IEC 27001:2013**: The official standard document, providing detailed requirements for an ISMS. [ISO Catalogue](https://www.iso.org/standard/54534.html)
-- **ISO 27001 Checklist**: A comprehensive checklist covering all clauses and controls of ISO 27001, useful for internal audits and gap analysis. [ISO 27001 Checklist](#)
-- **IT Governance ISO 27001 Toolkit**: Offers templates and guides to support the implementation of an ISMS. [IT Governance Toolkit](https://www.itgovernance.co.uk/shop/product/iso27001-isms-documentation-toolkit)

@@ -51,8 +51,3 @@ Implementing the NIST Cybersecurity Framework is a strategic approach that enabl
 - **CIS Controls**: Offers a prioritized set of actions to protect your organization and data from known cyber attack vectors. [CIS Controls](https://www.cisecurity.org/controls/)
 - **Small Business Cybersecurity Corner**: NIST's resource hub dedicated to helping small businesses with cybersecurity. [Small Business Cybersecurity](https://www.nist.gov/itl/smallbusinesscyber)
 - **Cyber Readiness Institute**: Provides free, practical cybersecurity resources for small and medium-sized businesses to help improve their cyber readiness. [Cyber Readiness Institute](https://www.cyberreadinessinstitute.org/)
-
----
-
-This guide provides SMBs with a structured approach to implementing the NIST Cybersecurity Framework, emphasizing practical steps and examples to enhance cybersecurity measures tailored to the unique needs and challenges of small and medium-sized businesses.
-

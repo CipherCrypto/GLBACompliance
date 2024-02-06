@@ -1,6 +1,6 @@
 # Data Privacy and Security Frameworks Repository
 
-Welcome to our Privacy and Security Frameworks Repository, where we emphasize the critical importance of adhering to established privacy and security frameworks, laws, and regulations. This repository serves as a resource for organizations and individuals seeking to understand and implement best practices in information security and data privacy.
+Welcome to our Data Privacy and Security Frameworks Repository, where we emphasize the critical importance of adhering to established privacy and security frameworks, laws, and regulations. This repository serves as a resource for organizations and individuals seeking to understand and implement best practices in information security and data privacy.
 
 ## Why Adherence to Data Privacy and Security Frameworks is Crucial
 

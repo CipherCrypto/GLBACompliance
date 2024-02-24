@@ -1,4 +1,4 @@
-**1. Identify**
+# 1. Identify
 
 - **Asset Management**: Begin by cataloging all hardware, software, data, and connectivity assets. This inventory will be the foundation for your cybersecurity strategy.
   - **Example**: Use a tool like Spiceworks or Lansweeper for network scanning and inventory management to maintain an up-to-date asset list.

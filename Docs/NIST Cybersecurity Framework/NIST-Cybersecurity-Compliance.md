@@ -1,6 +1,6 @@
-## Implementing the NIST Cybersecurity Framework: A Guide for SMBs
+## Implementing the NIST Cybersecurity Framework
 
-The NIST Cybersecurity Framework offers a policy framework for cybersecurity risk management. It's designed to help organizations improve their ability to prevent, detect, and respond to cyber incidents. For SMBs, this framework provides a flexible and cost-effective approach to strengthening their cybersecurity defenses.
+The NIST Cybersecurity Framework offers a policy framework for cybersecurity risk management. It's designed to help organizations improve their ability to prevent, detect, and respond to cyber incidents. This framework provides a flexible and cost-effective approach to helping organizations with strengthening their cybersecurity defenses.
 
 **1. Identify**
 

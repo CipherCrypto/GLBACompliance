@@ -1,4 +1,4 @@
-# Detailed IT Asset Management Inventory
+# IT Asset Management Inventory
 
 ## Hardware Inventory
 - **Desktops**
@@ -162,14 +162,3 @@
   - **IAM Roles:** Defined for Admin, Developer, Auditor with least privilege access
   - **Security Features:** All data in S3 buckets encrypted at rest, CloudTrail for audit logs
   - **Comments:** Conduct a bi-annual review of all IAM roles and policies for necessary adjustments
-
----
-
-This detailed inventory provides a comprehensive overview of each asset, incorporating critical data for cybersecurity professionals and students to understand asset management's depth and scope.
-
-
-
-
-
-
-
